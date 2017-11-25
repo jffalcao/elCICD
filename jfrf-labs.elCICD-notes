@@ -1,24 +1,26 @@
-
+Stack Analyzed
 
 
 CI Server
------------------------------------
-Drone.io
-Jenkins
+	Drone.io
+	Jenkins
 
 
 GIT Repository Server
------------------------------------
-Gogs
-GitLab
+	Gogs
+	GitLab
 
 
 Binary Repository Server
------------------------------------
-Nexus
+	Nexus
 
 
 Code Quality Server
------------------------------------
-SonarQube
+	SonarQube
 
+2017-11-25
+-----------------------------------
+Jenkins for the CICD Server
+Ref: Cloubees On-Demand Webinar: The DevOps 2.1 Toolkit (https://www.youtube.com/watch?v=vLVwqPS8H_E)
+
+Ref: VIPConsult Easy CD/CI at scale with Jenkins, Docker Swarm and Docker secrets (https://www.vip-consult.solutions/post/easy-docker-swarm-jenkins-continuous-deployment-at-scale#content)
