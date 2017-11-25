@@ -1,24 +1,23 @@
-Stack Analyzed
+## Stack Analyzed ##
 
 
-CI Server
-	Drone.io
-	Jenkins
+### CI Server ###
+- Jenkins 
+- Drone.io 
 
 
-GIT Repository Server
-	Gogs
-	GitLab
+### GIT Repository Server ###
+- Gogs
+- GitLab 
 
+### Binary Repository Server ### 
+- Nexus 
 
-Binary Repository Server
-	Nexus
+### Code Quality Server ### 
+- SonarQube 
 
+## 2017-11-25 ##
 
-Code Quality Server
-	SonarQube
-
-2017-11-25
 -----------------------------------
 Jenkins for the CICD Server
 Ref: Cloubees On-Demand Webinar: The DevOps 2.1 Toolkit (https://www.youtube.com/watch?v=vLVwqPS8H_E)
