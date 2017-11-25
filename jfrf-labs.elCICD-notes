@@ -1,0 +1,24 @@
+
+
+
+CI Server
+-----------------------------------
+Drone.io
+Jenkins
+
+
+GIT Repository Server
+-----------------------------------
+Gogs
+GitLab
+
+
+Binary Repository Server
+-----------------------------------
+Nexus
+
+
+Code Quality Server
+-----------------------------------
+SonarQube
+
